@@ -1,2 +1,2 @@
-# Puppeteer-Demo
-### 陪雪梅练习Puppeteer
+# ngiq-component
+neural galaxy frontend common  components

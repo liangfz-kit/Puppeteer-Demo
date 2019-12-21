@@ -1,0 +1,60 @@
+{
+  "config": {
+    "title": "Ngiq Component",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "version": "0.1.0",
+    "repository": null,
+    "native": false,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "entries": [
+    {
+      "key": "README.md",
+      "value": {
+        "id": "04c6e90faac2675aa89e2176d2eec7d8",
+        "filepath": "README.md",
+        "fullpath": "/Users/liangfangzheng/Desktop/Pro/ngiq-component/README.md",
+        "link": "",
+        "slug": "readme",
+        "route": "/readme",
+        "name": "Readme",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "ngiq-component",
+            "depth": 1,
+            "value": "ngiq-component"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/docs/index.mdx",
+      "value": {
+        "name": "Getting Started",
+        "route": "/",
+        "id": "13a8a147f67d34248cdc424d524520a5",
+        "filepath": "src/docs/index.mdx",
+        "fullpath": "/Users/liangfangzheng/Desktop/Pro/ngiq-component/src/docs/index.mdx",
+        "link": "",
+        "slug": "src-docs-index",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "getting-started",
+            "depth": 1,
+            "value": "Getting Started"
+          },
+          {
+            "slug": "consistency",
+            "depth": 2,
+            "value": "Consistency"
+          }
+        ]
+      }
+    }
+  ],
+  "props": []
+}
